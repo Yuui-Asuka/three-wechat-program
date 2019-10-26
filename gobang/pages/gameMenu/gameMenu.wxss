@@ -1,0 +1,11 @@
+/* pages/gameMenu/gameMenu.wxss */
+
+.bkimg {
+  width: 750rpx;
+  height: 2000rpx;
+  background-image: url("http://pic1.win4000.com/mobile/2018-12-21/5c1c8dfa1a6a9.jpg");
+}
+
+.button {
+  margin-top: 500rpx;
+}

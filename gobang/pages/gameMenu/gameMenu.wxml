@@ -1,0 +1,12 @@
+<!--pages/gameMenu/gameMenu.wxml-->
+
+<view class='bkimg'>
+<view class='container'>
+  <view class="button-sp-area">
+  <button class="weui-btn" type="default" plain="true" bindtap='startEvent'>开始游戏</button>
+  <button class="weui-btn" type="default" plain="true" bindtap='setEvent'>设置</button>
+  <button class="weui-btn" type="default" plain="true" bindtap='returnEvent'>返回</button>
+  </view>
+</view>
+</view>
+
