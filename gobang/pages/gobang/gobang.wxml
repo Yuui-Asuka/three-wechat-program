@@ -1,0 +1,11 @@
+<!--pages/gobang/gobang.wxml-->
+
+<view class='bkimg'>
+  <view>
+    <canvas canvas-id="chess" class='canvas' bindtap='onChessBoardClick'></canvas>
+  </view>
+  <view class='button'>
+    <button bindtap='restartEvent'>重新开始</button>
+    <button bindtap='exitEvent'>退出</button>   
+  </view>
+</view>
